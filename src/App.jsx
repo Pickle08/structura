@@ -23,7 +23,7 @@ function App() {
                 {/* Halaman How We Work */}
                 <Route path="/howwework" element={<HowWeWork />} />
 
-                <Route path="/legal" element={<LegalPage />} />
+                <Route path="/legal" element={<Legal />} />
             </Routes>
         </MainLayout>
     );
