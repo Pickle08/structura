@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 
-const LegalPage = () => {
+const Legal = () => {
     // Scroll ke atas otomatis saat halaman dibuka
     useEffect(() => {
         window.scrollTo(0, 0);
@@ -87,4 +87,4 @@ const LegalPage = () => {
     );
 };
 
-export default LegalPage;
+export default Legal;

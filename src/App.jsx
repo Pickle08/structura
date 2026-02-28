@@ -5,7 +5,7 @@ import Home from "./components/Home";
 import Aboutus from "./components/Aboutus";
 import Project from "./components/ProjectViewer/Project";
 import HowWeWork from "./components/HowWeWork";
-import LegalPage from "./components/Legal";
+import Legal from "./components/Legal";
 
 function App() {
     return (
